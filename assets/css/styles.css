@@ -1,5 +1,46 @@
+#home{
+    
+    background-color: darkred;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+  
+}
+
+.img-top {
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#portfolio{
+    
+    background-color: beige;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    
+}
+
+#aboutme{
+    
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    
+}
+
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: px;
+    background-attachment: fixed;
 }
 .portfolio-item {
     margin-bottom: 25px;
@@ -8,3 +49,4 @@ body {
 footer {
     margin: 50px 0;
 }
+
