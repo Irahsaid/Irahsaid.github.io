@@ -10,10 +10,27 @@
 
 .img-top {
     
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+.imgtop1{
+    
+    margin-left: 140px;
+    
+}
+
+.imgtop2{
+    
+    margin-left: 200px;
+    
+}
+
+.imgtop3{
+    
+    margin-left: 260px;
+    
 }
 #portfolio{
     
