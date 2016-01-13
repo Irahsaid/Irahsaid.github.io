@@ -2,41 +2,28 @@
     
     background-color: darkred;
     padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 100px;
+    padding-right: 0px;
+    padding-bottom: 500px;
+    padding-left: 0px;
+    align-content: center;
   
 }
 
-.img-top {
-    
-    margin-top: 30px;
-    margin-bottom: 30px;
- 
-}
-
-.imgtop1{
-    
-    margin-left: 140px;
+.glyphicon {
+    font-size: 30px;
     
 }
 
-.imgtop2{
-    
-    margin-left: 200px;
+.fa fa-facebook {
+    font-size: 30px;
     
 }
 
-.imgtop3{
-    
-    margin-left: 260px;
-    
-}
 #portfolio{
     
     background-color: beige;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 0px;
     padding-bottom: 50px;
     padding-left: 0px;
     
