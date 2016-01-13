@@ -3,7 +3,7 @@
     background-color: darkred;
     padding-top: 50px;
     padding-right: 0px;
-    padding-bottom: 500px;
+    padding-bottom: 50px;
     padding-left: 0px;
     align-content: center;
   
@@ -11,6 +11,16 @@
 
 .glyphicon {
     font-size: 30px;
+    
+}
+
+#aboutme{
+    
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
     
 }
 
@@ -24,15 +34,7 @@
     
 }
 
-#aboutme{
-    
-    background-color: white;
-    padding-top: 50px;
-    padding-right: 0px;
-    padding-bottom: 50px;
-    padding-left: 0px;
-    
-}
+
 
 #contact{
     
