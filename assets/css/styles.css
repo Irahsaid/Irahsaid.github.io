@@ -1,6 +1,6 @@
 #home{
     
-    background-color: darkred;
+    background-color: azure;
     padding-top: 50px;
     padding-right: 0px;
     padding-bottom: 50px;
@@ -11,6 +11,12 @@
 
 .glyphicon {
     font-size: 30px;
+    
+}
+
+#mainNav{
+    
+    background-color: floralwhite;
     
 }
 
@@ -41,7 +47,7 @@
     background-color: oldlace;
     padding-top: 50px;
     padding-right: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 120px;
     padding-left: 0px;
     
 }
@@ -64,5 +70,6 @@ footer {
 
 h1 { font-family: 'Raleway', serif; font-weight: 600; }
 h2 { font-family: 'Raleway', serif; font-weight: 400; }
+h3,h4,h5,h6{ font-family: 'Roboto', serif; font-weight: 100; }
 p { font-family: 'Roboto', serif; font-weight: 300; }
 
