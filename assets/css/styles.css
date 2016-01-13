@@ -14,14 +14,9 @@
     
 }
 
-.fa fa-facebook {
-    font-size: 30px;
-    
-}
-
 #portfolio{
     
-    background-color: beige;
+    background-color: floralwhite;
     padding-top: 50px;
     padding-right: 0px;
     padding-bottom: 50px;
@@ -33,7 +28,17 @@
     
     background-color: white;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    
+}
+
+#contact{
+    
+    background-color: oldlace;
+    padding-top: 50px;
+    padding-right: 0px;
     padding-bottom: 50px;
     padding-left: 0px;
     
@@ -53,4 +58,9 @@ body {
 footer {
     margin: 50px 0;
 }
+
+
+h1 { font-family: 'Raleway', serif; font-weight: 600; }
+h2 { font-family: 'Raleway', serif; font-weight: 400; }
+p { font-family: 'Roboto', serif; font-weight: 300; }
 
