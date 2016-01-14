@@ -1,4 +1,3 @@
-
 @media (min-width: 768px) {
     .about {
         margin-left: 12.333333%;
@@ -14,7 +13,8 @@
     color: darkturquoise;
 }
 
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
     background-color: #977EBD;
     color: #FFFFFF;
 }
@@ -22,8 +22,9 @@
 .nav>li>a {
     position: relative;
     display: block;
-    padding: 10px 40px;
+    padding: 15px 40px;
 }
+
 .navbar-default .navbar-header .navbar-brand {
     text-transform: uppercase;
     font-family: 'Raleway';
@@ -42,21 +43,20 @@
 }
 
 #aboutme .container .col-md-3 {
-    background-color: #A0EAEF;
     border-radius: 30px;
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 410px
+    padding-bottom: 20px
 }
 
 #aboutme .container .col-md-8 {
-    background-color: #A3FFE6;
+    background-color: pink;
     border-radius: 30px;
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 410px
+    padding-bottom: 10px
 }
 
 .glyphicon {
@@ -68,7 +68,7 @@
 }
 
 #aboutme {
-    background-color: azure;
+    background-color: lightcoral;
     padding-top: 50px;
     padding-right: 0px;
     padding-bottom: 50px;
@@ -84,7 +84,7 @@
 }
 
 #portfolio .col-lg-4 .section-heading {
-    background-color: tomato;
+    background-color: cadetblue;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -92,7 +92,7 @@
 }
 
 #contact .col-lg-4 .section-heading {
-    background-color: tomato;
+    background-color: #B193F5;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -100,7 +100,7 @@
 }
 
 #contact {
-    background-color: azure;
+    background-color: #E4D9FA;
     padding-top: 50px;
     padding-right: 0px;
     padding-bottom: 120px;
@@ -126,12 +126,13 @@ footer {
 h1 {
     font-family: 'Philisopher', serif;
     font-weight: 600;
-    color: blanchedalmond;
+    color: aliceblue;
 }
 
 h2 {
     font-family: 'Raleway', serif;
     font-weight: 400;
+    color: aliceblue;
 }
 
 h3,
@@ -142,16 +143,17 @@ h6 {
     font-weight: 100;
 }
 
-p {
+p,
+li {
     font-family: 'Roboto', serif;
     font-weight: 300;
 }
 
-.headline{
-    
+.headline {
     font-family: 'Philosopher', serif;
     font-weight: 400;
 }
+
 
 /* hover effects */
 
@@ -172,9 +174,8 @@ p {
     width: 263px;
     height: 472px;
     border-radius: 13px;
-    position:relative;
-    z-index:1;
-    
+    position: relative;
+    z-index: 1;
 }
 
 .item-hover,
@@ -232,7 +233,6 @@ p {
     filter: alpha(opacity=50);
     opacity: 0.5;
     z-index: 0;
-    
 }
 
 .item-type-line .item-hover:hover .line {
