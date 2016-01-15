@@ -47,8 +47,7 @@
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 20px;
-    -webkit-animation: bounceInDown 1s;
+    padding-bottom: 20px
 }
 
 #aboutme .container .col-md-8 {
@@ -106,14 +105,6 @@
     padding-right: 0px;
     padding-bottom: 120px;
     padding-left: 0px;
-}
-
-#contact .col-lg-1 {
-    -webkit-animation: lightSpeedIn 1s;
-}
-
-#contact .col-lg-4 .leftside {
-    -webkit-animation: lightSpeedIn 1s;
 }
 
 body {
@@ -255,9 +246,4 @@ li {
 .item-img {
     background-color: #7a548f;
     z-index: 0;
-}
-
-.progress {
-    -webkit-animation: bounceIn 1s;
-    -webkit-animation-delay: .1s;
 }
